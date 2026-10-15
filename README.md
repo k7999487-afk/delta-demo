@@ -1,1 +1,2 @@
-this is demo for GIT and GITHUB 
+this is demo for GIT and GITHUB class.
+
